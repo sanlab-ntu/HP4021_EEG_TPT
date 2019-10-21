@@ -1,2 +1,2 @@
-# HP4021_EEG_TPT
+# HP4021: EEG TPT
 Code used for the EEG TPT of NTU's HP4021
